@@ -1,39 +1,43 @@
 <p align="center">
-  <img src="https://salonities.net/profile.svg" alt="SALONITIES — material since circa 1983, officially SALONITIES since circa 1996" width="100%">
+  <img src="https://salonities.net/profile.svg" alt="SALONITIES — the stuff was already happening; around 1996 it learned its name; it has not stopped" width="100%">
 </p>
 
 <p align="center">
-  <strong>You really don't know until you know and even then it's unclear so just hang on, buckaroo.</strong>
+  <strong>the stuff was already happening · around 1996 it learned its name · it has not stopped</strong>
+</p>
+
+<p align="center">
+  <em>You really don't know until you know and even then it's unclear so just hang on, buckaroo.</em>
 </p>
 
 ---
 
 <table>
 <tr>
-<td width="25%" align="center"><strong>~1983 →</strong><br>THE MATERIAL</td>
-<td width="25%" align="center"><strong>~1996 →</strong><br>SALONITIES</td>
-<td width="25%" align="center"><strong>IN PERSON →</strong><br>THE SALON</td>
-<td width="25%" align="center"><strong>NOW → ?</strong><br>THE PCE</td>
+<td width="25%" align="center"><strong>~1983 →</strong><br>ALREADY HAPPENING</td>
+<td width="25%" align="center"><strong>~1996 →</strong><br>LEARNS ITS NAME</td>
+<td width="25%" align="center"><strong>IN PERSON →</strong><br>THE SALON BECOMES A PLACE</td>
+<td width="25%" align="center"><strong>NOW → ?</strong><br>STILL SLOAFING</td>
 </tr>
 <tr>
-<td>Artifacts, recordings, images, words, objects, fragments and other matter now feeding the archive begin years before SALONITIES has a name.</td>
-<td><strong>SALONITIES officially begins around 1996.</strong> It starts accumulating, making, remixing, remembering, forgetting and misremembering.</td>
-<td>The project becomes an actual salon: Commander + Chief making music, words, images, experiments and assorted creative wrongness in a bounded, time-limited place with other humans wandering through.</td>
-<td>The question becomes not how to put the salon on a website, but how digital space can become <em>another salon</em>: persistent, recombinatory, participatory and capable of surprising its makers.</td>
+<td>Artifacts, recordings, images, words, objects, fragments and other matter are already being made, collected, inherited, misplaced, rediscovered and carried forward.</td>
+<td><strong>Around 1996 the thing learns its name: SALONITIES.</strong> The name does not create the material. It gives an already-happening organism something to call itself.</td>
+<td>SALONITIES also becomes an actual salon: Commander + Chief making music, words, images, experiments and assorted creative wrongness in a bounded, time-limited place with other humans wandering through.</td>
+<td>Digital becomes another attempt to make a salon, not merely a website about one. The current PCE is machinery inside that continuity. SALONITIES is still always SLOAFing.</td>
 </tr>
 </table>
 
 # SALONITIES
 
-**Salon Oddities. Commander + Chief. Officially happening since around 1996. Material reaching back to around 1983.**
+**Salon Oddities. Commander + Chief. The stuff was already happening by roughly 1983. Around 1996 it learned its name. It has not stopped.**
 
-SALONITIES did **not** begin as a website, and the physical salon was not the beginning either.
+SALONITIES did **not** begin in 1996 in the ordinary origin-story sense. By then, the material was already happening. Around 1996, that ongoing mess of making, collecting, remembering, forgetting, repurposing and accidental continuity acquired the name **SALONITIES**.
 
-The current archive reaches backward into material from roughly 1983. By around 1996 the thing had become SALONITIES. Later, SALONITIES manifested as an actual in-person salon: a bounded occurrence where Commander and Chief made music, words, images, experiments, jokes, mistakes, and things that did not yet know what they were.
+Later, SALONITIES manifested as an actual in-person salon: a bounded occurrence where Commander and Chief made music, words, images, experiments, jokes, mistakes, and things that did not yet know what they were.
 
 People were invited into the occurrence rather than shown a tidy portfolio.
 
-Then came a long-running experiment:
+Then came the continuing question:
 
 > **Could digital space become another salon rather than merely a website about one?**
 
@@ -87,6 +91,8 @@ The name is deliberate.
 </tr>
 </table>
 
+The PCE is **not a new era after the archive**. It is current machinery inside one continuous SALONITIES.
+
 The public surface should increasingly be assembled from **curated things that have passed through Indigestion**.
 
 Not everything swallowed becomes public. That would be less salon and more gastrointestinal emergency.
@@ -107,6 +113,8 @@ explicit publication / recombination
       ↓
 PUBLIC
 SALONITIES.net + this GitHub profile + future Salon States
+      ↓
+STILL SLOAFING
 ```
 
 So this README is becoming less of a fixed essay and more of a **window into the current state of the salon**.
@@ -157,7 +165,7 @@ The goal is a graph of associations capable of surprising its own makers.
 A future SALONITIES should be able to set a table without declaring what the meal means.
 
 ```text
-one artifact from 1983-ish
+one old thing already happening
         +
 one Commander fragment
         +
@@ -223,6 +231,7 @@ The public layer should become increasingly graphical as the archive is ingested
 <p align="center">
 <strong>SALONITIES.net</strong><br>
 Commander + Chief<br><br>
+<strong>the stuff was already happening · around 1996 it learned its name · it has not stopped</strong><br><br>
 <em>No prompting. Just participation.</em><br><br>
 🛋️ 🌀 🤢
 </p>
