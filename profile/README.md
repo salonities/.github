@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://salonities.net/profile.svg" alt="SALONITIES — the stuff was already happening; around 1996 it learned its name; it has not stopped" width="100%">
+  <img src="https://salonities.net/profile.svg?v=db9c76e" alt="SALONITIES — the stuff was already happening; around 1996 it learned its name; it has not stopped" width="100%">
 </p>
 
 <p align="center">
