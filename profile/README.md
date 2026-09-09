@@ -20,10 +20,10 @@
 <td width="25%" align="center"><strong>NOW → ?</strong><br>STILL SLOAFING</td>
 </tr>
 <tr>
-<td>Artifacts, recordings, images, words, objects, fragments and other matter are already being made, collected, inherited, misplaced, rediscovered and carried forward.</td>
-<td><strong>Around 1996 the thing learns its name: SALONITIES.</strong> The name does not create the material. It gives an already-happening organism something to call itself.</td>
-<td>SALONITIES also becomes an actual salon: Commander + Chief making music, words, images, experiments and assorted creative wrongness in a bounded, time-limited place with other humans wandering through.</td>
-<td>Digital becomes another attempt to make a salon, not merely a website about one. The current PCE is machinery inside that continuity. SALONITIES is still always SLOAFing.</td>
+<td>Things are already being made, collected, inherited, misplaced, taped over, mailed around, folded into drawers, rescued from drawers and quietly carried forward.</td>
+<td><strong>Around 1996 the thing learns its name: SALONITIES.</strong> The name does not begin the story. It gives an already-happening organism something to call itself.</td>
+<td>SALONITIES also becomes an actual salon: Commander + Chief making music, words, images, experiments and assorted creative wrongness in a bounded place with other humans wandering through.</td>
+<td>Digital becomes another attempt to make a salon rather than a website about one. The room changes shape. The activity does not stop.</td>
 </tr>
 </table>
 
@@ -31,7 +31,9 @@
 
 **Salon Oddities. Commander + Chief. The stuff was already happening by roughly 1983. Around 1996 it learned its name. It has not stopped.**
 
-SALONITIES did **not** begin in 1996 in the ordinary origin-story sense. By then, the material was already happening. Around 1996, that ongoing mess of making, collecting, remembering, forgetting, repurposing and accidental continuity acquired the name **SALONITIES**.
+SALONITIES did **not** begin in 1996 in the ordinary origin-story sense. By then, the material was already happening: recordings, drawings, scraps, photographs, words, found things, inherited things, accidental things, deliberate things, inexplicable things, and things that only became relevant much later.
+
+Around 1996, that ongoing mess of making, collecting, remembering, forgetting, repurposing and accidental continuity acquired the name **SALONITIES**.
 
 Later, SALONITIES manifested as an actual in-person salon: a bounded occurrence where Commander and Chief made music, words, images, experiments, jokes, mistakes, and things that did not yet know what they were.
 
@@ -58,7 +60,11 @@ That is probably the project. 🛋️🌀
 
 The old stuff is not dead inventory. It is active matter.
 
-A cassette fragment from the 1980s, a photograph, an unfinished song, a line of text, a forgotten webpage, a telephone experiment, an argument about what something was, an object neither Commander nor Chief remembers making: all of it can become material again.
+A cassette fragment from the 1980s, a photograph with nobody identified, an unfinished song, a sentence that survived three computers, a telephone experiment, a schedule printed on an ancient Windows machine, a drawing nobody remembers making, an argument about what something was: all of it can become material again.
+
+Things can sleep for twenty or forty years and wake up in the wrong room next to something they have never met before.
+
+That is not necessarily a mistake.
 
 **The mess is the asset.**
 
@@ -66,62 +72,19 @@ A cassette fragment from the 1980s, a photograph, an unfinished song, a line of 
 
 ## THE CURRENT STRANGE MACHINE
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>🫙 R2 / THE ATTIC</h3>
-Original things live in <code>salonities-pce</code>.
-<br><br>
-Originals stay original.
-<br><br>
-Folders are convenience, never ontology.
-</td>
-<td width="33%" valign="top">
-<h3>🧠 D1 / SLOAFMIND</h3>
-<code>salonities-mind</code> remembers encounters, descriptions, SLOAFtags and eventually relationships.
-<br><br>
-Stable table.<br><strong>Insane contents.</strong>
-</td>
-<td width="33%" valign="top">
-<h3>🤢 INDIGESTION</h3>
-Commander + Chief feed the machine one thing at a time through a private doorway.
-<br><br>
-The name is deliberate.
-</td>
-</tr>
-</table>
+There is now a place where the things can go without being flattened into a museum catalog.
 
-The PCE is **not a new era after the archive**. It is current machinery inside one continuous SALONITIES.
+Originals are kept intact. Human descriptions are allowed to remain human. Memory can be contradictory. Dates can be approximate. A title can be wrong for twenty years and become right later. A thing can be finished, abandoned, rediscovered, misunderstood, sampled, reactivated, or simply keep turning up like it has nowhere else to be.
 
-The public surface should increasingly be assembled from **curated things that have passed through Indigestion**.
+Commander + Chief feed things into the current machine one at a time.
 
-Not everything swallowed becomes public. That would be less salon and more gastrointestinal emergency.
+Each encounter leaves a little residue: what somebody thinks it is, what somebody remembers, what somebody absolutely does not remember, what it seems related to, what it should not be related to, what happened to it, and whatever strange language attaches itself at the moment.
 
-The intended flow is:
+Not everything swallowed becomes public. Some things remain in the walls. Some things emerge years later. Some things may become scenery. Some may become clues. Some may become other salons.
 
-```text
-PRIVATE
-Commander / Chief
-      ↓
-  INDIGESTION
-      ↓
-R2 original + D1 human encounter
-      ↓
-relationships / SLOAFtags / rediscovery
-      ↓
-explicit publication / recombination
-      ↓
-PUBLIC
-SALONITIES.net + this GitHub profile + future Salon States
-      ↓
-STILL SLOAFING
-```
+The important part is that SALONITIES can now keep encountering its own past without pretending the past has stopped moving.
 
-So this README is becoming less of a fixed essay and more of a **window into the current state of the salon**.
-
-The large graphic at the top is already served by SALONITIES.net rather than stored here. That means it can change as the machine changes without rebuilding the organization profile by hand.
-
-Eventually, selected public artifacts, phrases, dates, collisions and current Salon States can work the same way.
+> **The machine does not explain SALONITIES. It gives SALONITIES more chances to happen.**
 
 ---
 
@@ -129,34 +92,41 @@ Eventually, selected public artifacts, phrases, dates, collisions and current Sa
 
 SLOAFtags are not a controlled vocabulary.
 
-They are whatever Commander or Chief decides to type while encountering a thing.
+They are whatever Commander or Chief decides to call the weather around a thing at a particular moment.
 
 `beautiful-stupid` · `unfinished business` · `phone hell` · `probably not important` · `chiefish` · `commanderesque` · `this thing again` · `should not work` · `works anyway`
 
-A tag is committed by typing it and hitting **Return**.
+They may be useful, stupid, precise, contradictory, historical, accidental, prophetic, or all of those at once.
 
-**No comma-separated keyword punishment.**
-
-Later systems may notice patterns among tags, but the original human language stays intact.
+The original language stays intact because sometimes the terrible description is the artifact too.
 
 ---
 
 ## RELATIONSHIPS > CATEGORIES
 
-<table>
-<tr><th>respectable-ish</th><th>less respectable</th></tr>
-<tr><td><code>version_of</code></td><td><code>accidentally_related_to</code></td></tr>
-<tr><td><code>sampled_from</code></td><td><code>keeps_showing_up</code></td></tr>
-<tr><td><code>created_with</code></td><td><code>rhymes_with_but_shouldnt</code></td></tr>
-<tr><td><code>same_session</code></td><td><code>long_lost_cousin_of</code></td></tr>
-<tr><td><code>references</code></td><td><code>commander_will_insist_this_connection_matters</code></td></tr>
-<tr><td><code>derived_from</code></td><td><code>chief_will_hate_this_connection</code></td></tr>
-<tr><td></td><td><code>probably_coincidence</code></td></tr>
-</table>
+SALONITIES is less interested in deciding which drawer a thing belongs in than in noticing what happens when two distant things recognize each other.
 
-The goal is not a hierarchy of content.
+Something may be a version of something else.
 
-The goal is a graph of associations capable of surprising its own makers.
+Or sampled from it.
+
+Or created beside it.
+
+Or accidentally related to it.
+
+Or its long-lost cousin.
+
+Or a thing that keeps showing up.
+
+Or a thing Commander insists matters while Chief would like everyone to calm down.
+
+Or probably coincidence.
+
+Probably.
+
+The goal is not a perfect hierarchy.
+
+The goal is enough memory for the room to surprise the people who built it.
 
 ---
 
@@ -186,11 +156,19 @@ Chief changes something.
 
 Somebody wanders in.
 
+Something becomes funny that was not funny before.
+
+Something becomes sad that was previously just a filename.
+
+Something gets played too loudly.
+
+Something is misunderstood productively.
+
 The occurrence eventually closes.
 
-Then that Salon becomes another artifact.
+Then that Salon becomes another thing capable of returning later.
 
-**archive → salon → artifact → archive → salon → ?**
+**old thing → salon → new thing → old thing again → salon → ?**
 
 That recursion is the motherfucker. 😂
 
@@ -198,11 +176,7 @@ That recursion is the motherfucker. 😂
 
 ## SLOAF SHOULD REMAIN UNDEFINED
 
-There is no authoritative boolean:
-
-```text
-is_sloaf = true
-```
+There is no authoritative switch that determines whether something is SLOAF.
 
 That would be philosophically criminal.
 
@@ -220,11 +194,23 @@ There is even **Titranium Sloafism**.
 
 **handmade + computational + archaeological + slightly malfunctioning**
 
-Not retro-internet cosplay. Not glitch wallpaper. Not AI-slop psychedelic goo.
+Not retro-internet cosplay.
 
-Old interfaces may resurface. Filenames may become typography. A scan may be more important than navigation. Dead ends are permitted. Secret entrances are encouraged. Things may collide because twenty or forty years apart turns out not to be very far at all.
+Not glitch wallpaper.
 
-The public layer should become increasingly graphical as the archive is ingested: photographs, fragments, old interfaces, waveform traces, scans, handwriting, screenshots, strange pairings, and things that cannot yet justify their own category.
+Not AI-slop psychedelic goo.
+
+Old interfaces may resurface. Filenames may become typography. A scan may be more important than navigation. A tiny icon from a forgotten schedule may become a doorway. Dead ends are permitted. Secret entrances are encouraged. Sound may arrive without asking for a large rectangular player to justify itself.
+
+Things may collide because twenty or forty years apart turns out not to be very far at all.
+
+The public SALONITIES should become increasingly graphical as more of the long-running material wakes up: photographs, fragments, old interfaces, waveform traces, scans, handwriting, screenshots, strange pairings, bad printouts, beautiful accidents, misplaced evidence, and things that cannot yet justify their own category.
+
+The target feeling is not "look at our archive."
+
+It is:
+
+> **You opened a door and something was already happening in here.**
 
 ---
 
@@ -233,5 +219,5 @@ The public layer should become increasingly graphical as the archive is ingested
 Commander + Chief<br><br>
 <strong>the stuff was already happening · around 1996 it learned its name · it has not stopped</strong><br><br>
 <em>No prompting. Just participation.</em><br><br>
-🛋️ 🌀 🤢
+🛋️ 🌀
 </p>
